@@ -14,7 +14,7 @@ Created a chatbot using OpenAI API where a user can ask different questions or h
 
 <b>OR</b>
 
-- Click the <b>textbot.exe</b> file in the dist folder.
+- Click the <b>textbot.exe</b>.
 
 <h3> Packaging the bot into .exe file</h3>
 
