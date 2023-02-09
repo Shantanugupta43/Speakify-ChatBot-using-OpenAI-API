@@ -18,8 +18,8 @@ def speak(message):
     pygame.quit()
     
 
-# Set the API key for OpenAI
-openai.api_key = "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" 
+# Set the private API key for OpenAI
+openai.api_key = "ENTER THE API KEY HERE" 
 
 # Initialize the text-to-speech engine
 
