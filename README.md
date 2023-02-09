@@ -23,3 +23,10 @@ To package the bot into executable file-
 - Navigate to the directory where your Python file is located using the command prompt.
 - Run the following command: pyinstaller --onefile textbot.py
 - This will create a standalone executable file in the dist folder within the directory where your Python file is located.
+
+<h3> Here is a video showcasing the functionality of this chatbot  </h3>
+
+
+
+https://user-images.githubusercontent.com/99300527/217935356-e69de232-437d-432e-b0cd-405e0acb1263.mp4
+
