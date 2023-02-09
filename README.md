@@ -1,4 +1,4 @@
-VoiceAudio GPT ChatBot using OpenAI API
+<h1>VoiceAudio GPT ChatBot using OpenAI API</h1>
 
 Created a chatbot using OpenAI API where a user can ask different questions to the bot using speech.
 
@@ -8,7 +8,6 @@ Created a chatbot using OpenAI API where a user can ask different questions to t
 
 - Import the code using ``git clone <repo-link>`` and navigate to the directory
 - Install all the dependencies using ``pip install <dependency-name>``  The dependencies used here are openai, speech_recognition, gtts and pygame.
-- Run virtual enviornment using ``myenv\Scripts\activate`` on Windows or ``source myenv/bin/activate`` on Linux.
 - Run the command ``python textbot.py`` to start the application
 
 
