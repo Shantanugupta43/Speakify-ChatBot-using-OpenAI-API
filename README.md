@@ -14,3 +14,12 @@ Created a chatbot using OpenAI API where a user can ask different questions or h
 <b>OR</b>
 
 - Click the <b>textbot.exe</b> file in the dist folder.
+
+<h3> Packaging the bot into .exe file</h3>
+
+To package the bot into executable file-
+
+Install PyInstaller using pip: ``pip install pyinstaller``
+Navigate to the directory where your Python file is located using the command prompt.
+Run the following command: pyinstaller --onefile textbot.py
+This will create a standalone executable file in the dist folder within the directory where your Python file is located.
