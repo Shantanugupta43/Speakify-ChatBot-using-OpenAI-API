@@ -1,6 +1,6 @@
 <h1>VoiceAudio GPT ChatBot using OpenAI API</h1>
 
-Created a chatbot using OpenAI API where a user can ask different questions to the bot using speech.
+Created a chatbot using OpenAI API where a user can ask different questions or have casual conversations with the bot using speech.
 
 <b> NOTE: No Neural Networks or Artificial Intelligence is used while coding the bot. It communicates all the responses from OpenAI Library.</b>
 
