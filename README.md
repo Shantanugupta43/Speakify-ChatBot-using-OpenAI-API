@@ -12,11 +12,8 @@ Created a chatbot using OpenAI API where a user can ask different questions or h
 - Sign up to OpenAI website and retrieve api key from here https://openai.com/api/ . After Signing up, click on the profile -> View API Keys -> Create new Secret Key
 
 
-<b>OR</b>
 
-- Install the the <b>textbot.exe</b> file from https://drive.google.com/file/d/1rzyVZRAvyeFi3yRZQ9Q9MgdhXqyGvucq/view?usp=sharing
-
-<h3> Packaging the bot into .exe file</h3>
+<h3> Packaging the bot into .exe file (Optional) </h3>
 
 To package the bot into executable file-
 
