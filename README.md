@@ -9,6 +9,7 @@ Created a chatbot using OpenAI API where a user can ask different questions or h
 - Import the code using ``git clone <repo-link>`` and navigate to the directory
 - Install all the dependencies using ``pip install <dependency-name>``  The dependencies used here are openai, speech_recognition, gtts and pygame.
 - Run the command ``python textbot.py`` to start the application
+- Sign up to OpenAI website and retrieve api key from here https://openai.com/api/ . After Signing up, click on the profile -> View API Keys -> Create new Secret Key
 
 
 <b>OR</b>
