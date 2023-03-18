@@ -29,15 +29,15 @@ speak("Hello Shaan! I am now activated. Talk to me or ask me questions. I am hap
 # Creating a function for generating a response from the OpenAI API
 def generate_response(prompt):
     response = openai.Completion.create(
-        engine="text-davinci-002",
-        prompt=prompt,
-        max_tokens=100,
-        n=1,
-        stop=None,
-        temperature=0.9,
+        engine="text-davinci-002",   # Language model used
+        prompt=prompt,   #specifies the text prompt for which to generate a response
+        max_tokens=100,   #number of words in responses
+        n=1,               #number of answers to be generated
+        stop=None,        #specifies a sequence of tokens at which to stop generation of the response.
+        temperature=0.9,  #controls the randomness and creativity of the generated response.
     )
 
-    return response.choices[0].text
+    return response.choices[0].text             #Once the response has been generated, the function returns the generated text of the first choice 
 
 
 
