@@ -1,4 +1,4 @@
-<h1>VoiceAudio ChatBot using OpenAI API</h1>
+<h1>Speakify ChatBot using OpenAI API</h1>
 
 Created a chatbot using OpenAI API where a user can ask different questions or have casual conversations with the bot using speech.
 
